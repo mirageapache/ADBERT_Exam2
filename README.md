@@ -8,7 +8,7 @@
 git clone https://github.com/mirageapache/ADBERT_Exam2.git
 ```
 
-2.啟動程式
+2. 啟動程式
 
 ```
 執行 index.html
